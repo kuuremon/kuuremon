@@ -10,8 +10,6 @@ Currently working on metaverse development team project.
 
 ## Projects
 
-## Projects
-
 | Project | Stack | Description |
 |---|---|---|
 | [CyonnaApp](https://github.com/kuuremon/CyonnaApp) | Godot · C# | Pixel mindmap-based studying app. |
